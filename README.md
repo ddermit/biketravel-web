@@ -1,6 +1,6 @@
 # README #
 
-Visita la web de *BIKETRAVEL*: https://ddermit.github.io/projecte-web/
+Visita la web de **BIKETRAVEL**: https://ddermit.github.io/projecte-web/
 
 ## 1 Tema/motivació. 
 
