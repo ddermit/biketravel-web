@@ -42,7 +42,7 @@ Respon a les preguntes de manera adient i utilitza el vocabulari tècnic necessa
 3. dificultat
 
 
-Una imatge d'exemple --> 
+Captura de pantalla de la pàgina web:
 ![Una imatge d'exemple](./images/web.png "Logo Title Text 1")
 
 
