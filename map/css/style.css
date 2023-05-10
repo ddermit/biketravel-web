@@ -49,6 +49,22 @@ nav li a:hover {
   max-width: 600px;
 }
 
+.cta, .btn-volver {
+  display: inline-block;
+  background-color: #00a8cc;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 0.8rem 0.5rem;
+  border-radius: 2px;
+  text-decoration: none;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.cta:hover, .btn-volver:hover {
+  background-color: #007d8c;
+}
+
+
 h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
