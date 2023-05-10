@@ -48,4 +48,4 @@ Una imatge d'exemple -->
 
 
 Per buscar més rutes: 
-[Click to wikiloc]([https://www.google.co](https://ca.wikiloc.com/))
+[Click to wikiloc](https://www.google.co](https://ca.wikiloc.com)
