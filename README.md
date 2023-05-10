@@ -5,20 +5,15 @@
 Es tracta d'una web creada per a una empresa que organitza viatges en bicicleta per Europa o pel mon a llocs emblemàtics del mon de la bici, fet que m’agrada molt. La idea està basada que al Garraf hi ha una empresa que realitza aquest tipus de viatges i sempre m’ha agradat el que fan i estaria encantat de treballar-hi o crear-ne una semblant.
 
 ## 2 Dades/continguts. 
-D’on s’han tret:
-- dades, 
-- text, 
-- fotos, 
-- etc
 
 Les dades i textos de la web sòl elaboració pròpia tot i que he agafat idees de diferents agencies de viatges o foros a internet ja que m’ha aportat gran informació sobretot de les rutes d’Alemanya ja que no coneixia res. El que si que no es elaboració pròpia son les imatges, ja que les he cercat a internet intentant complir al màxim que estigui lliure de drets d’imatge.
 Cal afegir que per realitzar el mapa he utilitzar la web wikiloc. Que es on he extret la totalitat de tracks que es veuen al mapa de la pàgina web i he linkat els “poups”.
 
 ## 3 Estructura de la Web. 
 Seccions, decisions preses en la presentació dels apartats, s’han utilitzat els elements adequats per representar la informació (taules, diagrames
-La web està estructurada amb una pàgina principal, amb la informació rellevant. Després disposaríem de la secció de 
-Galeria: En aquesta secció trobem fotografies representatives dels indrets on es realitza les excursions ciclistes de la empresa. Quan pasees per la fotografia apareix un efecte zoom i apareix el títol del lloc d’on es la fotografia.
 
+La web està estructurada amb una pàgina principal, amb la informació rellevant. Després disposaríem les seguents seccions: 
+- Galeria: En aquesta secció trobem fotografies representatives dels indrets on es realitza les excursions ciclistes de la empresa. Quan pasees per la fotografia apareix un efecte zoom i apareix el títol del lloc d’on es la fotografia.
 - Mapa; En aquest trobem el mapa on representem els principals llocs on es realitzen les sortides i a més a més s’han mostrat un recorregut proposata en vermell que clicant al icona s’observa la fotografia i pots accedir a la pàgina de wikiloc per tenir mes informació.
 - Nosotros, el que trobem es una petita explicació del que es l’empresa, a que es dedica, quins serveis ofereix i també s’ha adjuntat una taula amb els preus de les excursions.
 - Contacto, en aquest apartat es disposa d’un formulari breu per tal de posar-se en contacte i fer qualsevol pregunta a la empresa.
@@ -38,6 +33,7 @@ Paral·lelament s’ha anat al wikiloc i s’han descarregat uns tracks els qual
 Reflexiona proactivament sobre el producte elaborat.
 El producte elaborat crec que es molt bo que compleix amb els requisits proposats. Pel que fa a les dificultats puc dir que m’ha costat fer la web responiva i alguna part que altre del codi css però pel que fa als punts forts o el que m’ha costat menys clarament ha estat el mapa i la seva elaboració amb tots els elements que composa.
 Per últim crec que seria millorable el botó de tornar al inici, l’alineació dels textos i algun altre aspecte de format.
+
 ## 7 Pregunta . 
 Respon a les preguntes de manera adient i utilitza el vocabulari tècnic necessari.
 
