@@ -1,5 +1,7 @@
 # README #
 
+https://ddermit.github.io/projecte-web/
+
 ## 1 Tema/motivació. 
 
 Es tracta d'una web creada per a una empresa que organitza viatges en bicicleta per Europa o pel mon a llocs emblemàtics del mon de la bici, fet que m’agrada molt. La idea està basada que al Garraf hi ha una empresa que realitza aquest tipus de viatges i sempre m’ha agradat el que fan i estaria encantat de treballar-hi o crear-ne una semblant.
