@@ -42,11 +42,10 @@ Respon a les preguntes de manera adient i utilitza el vocabulari tècnic necessa
 2. dificultat
 3. dificultat
 
-Per fer el link
-[Click to google](https://www.google.com)
-
-Una imatge d'exemple --> 
-![Una imatge d'exemple](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Una imatge d'exemple --> 
 ![Una imatge d'exemple](./images/web.png "Logo Title Text 1")
+
+
+Per buscar més rutes: 
+[Click to wikiloc]([https://www.google.co](https://ca.wikiloc.com/))
