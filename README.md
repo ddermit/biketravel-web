@@ -1,9 +1,9 @@
 # README #
 
 ## 1 Tema/motivació. 
-Explica **l’objectiu** de la web i la motivació per fer-la. Vinculació amb Geografia.
 
 Es tracta d'una web creada per a una empresa que organitza viatges en bicicleta per Europa o pel mon a llocs emblemàtics del mon de la bici, fet que m’agrada molt. La idea està basada que al Garraf hi ha una empresa que realitza aquest tipus de viatges i sempre m’ha agradat el que fan i estaria encantat de treballar-hi o crear-ne una semblant.
+
 ## 2 Dades/continguts. 
 D’on s’han tret:
 - dades, 
@@ -13,13 +13,16 @@ D’on s’han tret:
 
 Les dades i textos de la web sòl elaboració pròpia tot i que he agafat idees de diferents agencies de viatges o foros a internet ja que m’ha aportat gran informació sobretot de les rutes d’Alemanya ja que no coneixia res. El que si que no es elaboració pròpia son les imatges, ja que les he cercat a internet intentant complir al màxim que estigui lliure de drets d’imatge.
 Cal afegir que per realitzar el mapa he utilitzar la web wikiloc. Que es on he extret la totalitat de tracks que es veuen al mapa de la pàgina web i he linkat els “poups”.
+
 ## 3 Estructura de la Web. 
 Seccions, decisions preses en la presentació dels apartats, s’han utilitzat els elements adequats per representar la informació (taules, diagrames
 La web està estructurada amb una pàgina principal, amb la informació rellevant. Després disposaríem de la secció de 
 Galeria: En aquesta secció trobem fotografies representatives dels indrets on es realitza les excursions ciclistes de la empresa. Quan pasees per la fotografia apareix un efecte zoom i apareix el títol del lloc d’on es la fotografia.
-Mapa; En aquest trobem el mapa on representem els principals llocs on es realitzen les sortides i a més a més s’han mostrat un recorregut proposata en vermell que clicant al icona s’observa la fotografia i pots accedir a la pàgina de wikiloc per tenir mes informació.
-Nosotros, el que trobem es una petita explicació del que es l’empresa, a que es dedica, quins serveis ofereix i també s’ha adjuntat una taula amb els preus de les excursions.
-Contacto, en aquest apartat es disposa d’un formulari breu per tal de posar-se en contacte i fer qualsevol pregunta a la empresa.
+
+- Mapa; En aquest trobem el mapa on representem els principals llocs on es realitzen les sortides i a més a més s’han mostrat un recorregut proposata en vermell que clicant al icona s’observa la fotografia i pots accedir a la pàgina de wikiloc per tenir mes informació.
+- Nosotros, el que trobem es una petita explicació del que es l’empresa, a que es dedica, quins serveis ofereix i també s’ha adjuntat una taula amb els preus de les excursions.
+- Contacto, en aquest apartat es disposa d’un formulari breu per tal de posar-se en contacte i fer qualsevol pregunta a la empresa.
+
 Per concloure l’explicació cal recalcar que en tot moment si cliques al logo et porta a la pàgina d’inici, la capçalera està vinculada en tot moment amb les pàgines que li corresponen i per últim, totes disposen, a la part inferior de la pàgina d’un boto que et porta a dalt de tot.
 
 ## 4 Web responsive . 
