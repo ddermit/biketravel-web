@@ -2,43 +2,42 @@
 
 Visita la web de **BIKETRAVEL**: [https://ddermit.github.io/biketravel-web/)
 
-## 1 Tema/motivació. 
+## 1 Tema/motivación.
 
-Es tracta d'una web creada per a una empresa que organitza viatges en bicicleta per Europa o pel mon a llocs emblemàtics del mon de la bici, fet que m’agrada molt. La idea està basada que al Garraf hi ha una empresa que realitza aquest tipus de viatges i sempre m’ha agradat el que fan i estaria encantat de treballar-hi o crear-ne una semblant.
+Se trata de una web creada para una empresa que organiza viajes en bicicleta por Europa a lugares emblemáticos del mundo del cicloturismo. La idea está basada en que en el Garraf hay una empresa que realiza este tipo de viajes y siempre me ha gustado lo que hacen, estaría encantado de trabajar o crear una similar. 
 
-## 2 Dades/continguts. 
+## 2 Datos/contenidos.
 
-Les dades i textos de la web són elaboració pròpia principalment, tot i que he agafat idees de diferents agencies de viatges o comunitats viatgeres d'internet que m’ha aportat gran informació de les rutes i llocs populars dels paisos que menys coneixia com es Alemanya. El que si que no es elaboració pròpia son les imatges, que les he cercat a internet intentant complir al màxim que estiguin lliure de drets d’imatge.
-Cal afegir que per realitzar el mapa he utilitzar la web wikiloc d'on he extret tots els tracks que es veuen al mapa de la pàgina web i he linkat els “pop-ups”.
+Los datos y textos de la web son elaboración propia principalmente, aunque he tomado algunas ideas de diferentes agencias de viajes o comunidades viajeras de internet que me ha aportado gran información de las rutas y sitios populares de los países que menos conocía como es el caso de Alemania. Lo que no se elaboración propia son las imágenes, que las he buscado en internet intentando cumplir al máximo que estén libres de derechos de imagen. Hay que añadir que para realizar el mapa he utilizado la web wikiloc de la cual, he extraído todos los tracks que se ven en el mapa de la página web y se pueden visualizar en el enlace linkado en los "pop-ups".
 
-## 3 Estructura de la Web. 
-Seccions, decisions preses en la presentació dels apartats, s’han utilitzat els elements adequats per representar la informació (taules, diagrames
+## 3 Estructura de la Web.
 
-La web està estructurada amb una pàgina principal, amb la informació rellevant. Després disposaríem les seguents seccions: 
-- Galeria: En aquesta secció trobem fotografies representatives dels indrets on es realitza les excursions ciclistes de la empresa. Quan pasees per la fotografia apareix un efecte zoom i apareix el títol del lloc d’on es la fotografia.
-- Mapa; En aquest trobem el mapa on representem els principals llocs on es realitzen les sortides i a més a més s’han mostrat un recorregut proposata en vermell que clicant al icona s’observa la fotografia i pots accedir a la pàgina de wikiloc per tenir mes informació.
-- Nosotros, el que trobem es una petita explicació del que es l’empresa, a que es dedica, quins serveis ofereix i també s’ha adjuntat una taula amb els preus de les excursions.
-- Contacto, en aquest apartat es disposa d’un formulari breu per tal de posar-se en contacte i fer qualsevol pregunta a la empresa.
+La web está estructurada con una página principal, con información relevante de empresa Biketravel y después dispondríamos las siguientes secciones:
 
-Per concloure l’explicació cal recalcar que en tot moment si cliques al logo et porta a la pàgina d’inici, la capçalera està vinculada en tot moment amb les pàgines que li corresponen i per últim, totes disposen, a la part inferior de la pàgina, d’un boto que et porta a dalt de tot.
+- Galería: En esta sección encontramos fotografías representativas de los lugares donde se realizan las excursiones ciclistas que realiza la empresa. Cuando paseas por la fotografía aparece un efecto zoom y aparece el título del lugar.
+- Mapa: En este encontramos el mapa donde representamos los principales lugares donde se realizan las salidas o viajes organizados y además se han mostrado un recorrido propuesto en rojo. A demás, haciendo clic en el icono emerge un "pop-up" donde se observa una fotografia del lugar y un enlace para acceder a la página de wikiloc y asi disponer de más información.
+- Nosotros: lo que encontramos en este apartado de la web es una pequeña explicación de lo que es la empresa, a la que se dedica, los servicios que ofrece y también se ha generado una tabla para mostrar los precios de las excursiones con los diferentes packs y paises.
+- Contacto: en este apartado se dispone de un formulario breve para ponerse en contacto y realizar cualquier pregunta en la empresa.
 
-## 4 Web responsive . 
+Para concluir la explicación es necesario recalcar que en todo momento si clicas en el logo te lleva a la página de inicio, la cabecera está vinculada en todo momento con las páginas que le corresponden y por último, todas disponen, en la parte inferior de la página, de un boto que te lleva a lo más alto.
 
-La tècnica emperada ha estat principalemtn dividir la pàgina en columnes i adaptar-les el tamany de la pàgina. Considero que la pàgina s'ajusta corregtament a tamanys de pantalla grans i mitjans però a tamany de mòvil m'ha sorgit alguna que altre dificultat i l'adaptació o la web no es del tot responsiva.
+## 4 Web responsive.
 
-## 5 Cartografia . 
+La técnica empleada ha sido principalmente dividir la página en columnas y adaptarlas el tamaño de la página. Considero que la página se ajusta correctamente a tamaños de pantalla grandes y medios pero a tamaño de móvil me ha surgido alguna que otra dificultad y la adaptación o la web no es del todo responsiva.
 
-El mapa que trobareu a la web elaborat s’ha realitzat mitjançant la base de google maps hibrida en la qual s’han georeferenciat mitjançant una capa de punt els llocs escollits com a destí turístic per a ciclistes. Sobre aquests punts s’ha modificat la icona personalitzant-la amb una imatge svg d'una bicicleta per fer més atractiu el mapa. Per últim pel que fa als punts dels polígons, s’ha modificat la taula d’atributs sumant una columna “imatge” i un altre “enllaç” per tal de que quan l’usuari cliqui a la icona, surti un "pop up" amb el nom del lloc, una fotografia representativa i una enllaç al wikiloc perquè pugui visualitzar les dades de la ruta proposada.
-Paral·lelament s’ha anat al wikiloc i s’han descarregat uns tracks els quals es mostren juntament amb les icones.
-Destacar que els logo o els punts representatius d'Espanya, Frnaça, Italia, Paisos Baixos i Alemania estan en una mateixa capa i que els recorreguts en capes diferents ja que son tracks independents els uns dels altres. 
+## 5 Cartografía.
 
-## 6 Dificultats/millores. 
+El mapa que encontrará en la web elaborado se ha realizado mediante la base de google maps hibrida en la que se han georeferenciado mediante una capa de punto los lugares escogidos como destino turístico para ciclistas. Sobre estos puntos se ha modificado el icono personalizándolo con una imagen svg de una bicicleta para hacer más atractivo el mapa. Por último en cuanto a los puntos de los polígonos, se ha modificado la tabla de atributos sumando una columna "imagen" y otro "enlace" para que cuando el usuario clique en el icono, salga un "pop up" con el nombre del sitio, una fotografía representativa y un enlace al wikiloc para que pueda visualizar los datos de la ruta propuesta.
+Paralelamente se ha ido al wikiloc y se han descargado unos tracks que se muestran junto con los iconos.
+Destacar que el logo o los puntos representativos de España, Frnaça, Italia, Países Bajos y Alemania están en una misma capa y que los recorridos en capas diferentes ya que son tracks independientes unos de otros.
 
-El producte elaborat crec que es força bo per no haver fet mai una web i tenint en compte que no s'ha utilitzat cap plantilla excepte la del formulari de contacte. A més a més crec que he fet una web atractiva a la vista i que compleix amb molts dels requisits proposats pels professors. 
-Pel que fa a les dificultats puc dir que m’ha costat fer la web responiva. Ho he aconseguit en pantalles grans i mitjanes pero no amb pantalla de movil. 
-Pel que fa als punts forts o el que m’ha costat menys, clarament ha estat el mapa i la seva elaboració amb tots els elements que conté degut a que portem força més temps fent-ho i ha estat be fusionar els mapes amb el diseny web.
+## 6 Dificultades/mejoras.
 
-Per últim, si tornés a fer la web, clarament milloraria el format responsive, elaborant la pàgina primer amb el tamany de pantalla petit i anar augmentant, un altre dels aspectes que seria millorable el botó de tornar al inici, l’alineació dels textos, la separació o "pading" i algun altre aspecte de format per fer encara més visual la pàgina web.
+La web elaborada que es bastante biuena teniendo en cuanta que nunca hemos hecho una web y que no he utilizado ninguna plantilla excepto la del formulario de contacto. Además creo que he hecho una web atractiva visualmente y que cumple con muchos de los requisitos propuestos por los profesores.
+En cuanto a las dificultades, puedo decir que me ha costado hacer la web responsiva. Lo he conseguido en pantallas grandes y medias pero no con pantalla de movil.
+En cuanto a los puntos fuertes o lo que me ha costado menos, claramente ha sido el mapa y su elaboración con todos los elementos que contiene debido a que llevamos mucho más tiempo haciéndolo y ha sido bien fusionar los mapas con el diseño web.
+
+Por último, si volviera a realizar la web, claramente mejoraría el formato responsive, elaborando la página primero con el tamaño de pantalla pequeño e ir aumentando, de hecho, seguramente utilizaria una plantilla, otro de los aspectos que sería mejorable el botón de volver al inicio, la alineación de los textos, la separación o pading y algún otro aspecto de formato para hacer aún más visual la página web.
 
 
 
