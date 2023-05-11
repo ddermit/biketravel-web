@@ -44,7 +44,7 @@ Per últim, si tornés a fer la web, clarament milloraria el format responsive, 
 
 Captura de pantalla de la pàgina web:
 ![Una imatge d'exemple](./images/web.png "Logo Title Text 1")
-
+https://ddermit.github.io/biketravel-web/
 
 Per buscar més rutes: 
 [Click to wikiloc](https://ca.wikiloc.com)
